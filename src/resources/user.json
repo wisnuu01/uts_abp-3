@@ -1,0 +1,47 @@
+[
+  {
+    "balance": "$3,946.45",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "name": "Wisnu",
+    "gender": "male",
+    "company": "Arunika Design",
+    "email": "wisnu01@arunika_dg.com"
+  },
+  {
+    "balance": "$2,499.49",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "name": "Acep Rian Amrillah",
+    "gender": "male",
+    "company": "Sale Cau Corp.",
+    "email": "aceprianamr12@salecaucorp.com"
+  },
+  {
+    "balance": "$2,820.18",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "name": "Lilis Devi",
+    "gender": "female",
+    "company": "CV. LSP",
+    "email": "lldevi@lsp.com"
+  },
+  {
+    "balance": "$3,277.32",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "name": "Rina Ayu Pratiwi",
+    "gender": "female",
+    "company": "Arunika Design",
+    "email": "r.ayupratiwi@arunika_dg.com"
+  },
+  {
+    "balance": "$1,972.47",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "name": "Mark Anthony",
+    "gender": "male",
+    "company": "Sale Cau Corp.",
+    "email": "anthony_mark001@salecaucorp.com"
+  }
+]
